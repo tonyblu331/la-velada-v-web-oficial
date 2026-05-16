@@ -1,13 +1,39 @@
-## Describe your changes
-<!-- Please include a summary of the changes and the related issue. Please also include relevant motivation and context. -->
+> [!important]
+> **One change per PR.** Scope to a single component or section — not a whole page. Split unrelated changes into separate PRs.
 
-## Include a screenshot/video where applicable
-<!-- Please add screenshots to help explain your changes. Delete this section if not needed. -->
+## Related Issue
 
-## Type of change
-<!-- Please delete options that are not relevant. -->
+Closes #
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] Documentation update
+## Type
+
+- [ ] feat
+- [ ] fix
+- [ ] refactor
+- [ ] perf
+- [ ] docs
+- [ ] chore
+
+## Scope
+
+<!-- List each file or component changed with a one-line description. -->
+
+| File / Component | Change |
+|------------------|--------|
+| `src/...` | what changed |
+
+## Summary
+
+<!-- What changed and why. One paragraph. -->
+
+## Screenshots
+
+<!-- Delete if not applicable. -->
+
+| Before | After |
+|--------|-------|
+|        |       |
+
+## Breaking Changes
+
+<!-- Removed props, renamed files, or API changes. "None" if not applicable. -->
